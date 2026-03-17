@@ -1,0 +1,6 @@
+[submodule "mlops-cours"]
+	path = mlops-cours
+	url = https://github.com/toi/mlops-cours.git
+[submodule "purchase-predict"]
+	path = purchase-predict
+	url = https://github.com/baynaz/purchase-predict.git
